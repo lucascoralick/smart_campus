@@ -10,4 +10,4 @@ O mesmo está aguardando para envio à Universidade, por enquanto o desenvolvime
 
 ## Créditos
 A ideia do projeto foi desenvolvida inicialmente por Sarah Sicari, Bernardo Paschoalin, Pedro Azevedo e Luca Scoralick no Ruptura, evento oficial da UFMG, onde ganhamos o primeiro lugar.
-O desenvolvimento inicial do projeto foi uma iniciativa da minha parte, Luca Scoralick. Meu contato é lucascoralick11@gmail.com
+O desenvolvimento inicial do projeto foi uma iniciativa da minha parte, Luca Scoralick. Desenvolvido inicialmente com ajuda de IA. Meu contato é lucascoralick11@gmail.com
